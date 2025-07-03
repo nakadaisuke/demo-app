@@ -108,7 +108,7 @@ export XC_TOKEN="your-api-token"
 
 Run the script as follows:
 ```bash
-python3 script_name.py
+python3 acme-cert-renew.py 
 ```
 
 ---
